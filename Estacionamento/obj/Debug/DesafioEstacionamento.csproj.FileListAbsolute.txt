@@ -1,0 +1,3 @@
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\obj\Debug\DesafioEstacionamento.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\obj\Debug\DesafioEstacionamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\obj\Debug\DesafioEstacionamento.csproj.CoreCompileInputs.cache

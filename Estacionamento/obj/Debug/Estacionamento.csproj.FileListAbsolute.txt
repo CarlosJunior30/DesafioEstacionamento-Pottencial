@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\carlos junior\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
